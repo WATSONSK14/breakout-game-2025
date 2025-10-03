@@ -69,6 +69,8 @@ Python kurulumu yapmadan anında oyun oynamak için:
 - Depodan `main.exe` dosyasını indirin
 - Çalıştırmak için çift tıklayın (sadece Windows)
 - Ek bağımlılık gerekmez
+## 🖼️ Proje Görseli
+![Ekran görüntüsü 2025-10-04 021011](https://github.com/user-attachments/assets/3f6413aa-ed98-4761-9087-fa4593026cb5)
 
 ## 📁 Proje Yapısı
 
