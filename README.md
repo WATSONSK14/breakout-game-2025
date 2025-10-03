@@ -70,9 +70,10 @@ For instant gameplay without Python installation:
 - Double-click to run (Windows only)
 - No additional dependencies required
 
-## 📁 Project Structure
+## 🖼️ Project Screenshot
 ![Ekran görüntüsü 2025-10-04 021011](https://github.com/user-attachments/assets/3f6413aa-ed98-4761-9087-fa4593026cb5)
 
+## 📁 Project Structure
 ```
 breakout-game-2025/
 ├── main.py              # Main game entry point and game loop
