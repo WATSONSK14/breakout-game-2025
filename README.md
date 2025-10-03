@@ -71,6 +71,7 @@ For instant gameplay without Python installation:
 - No additional dependencies required
 
 ## 📁 Project Structure
+![Ekran görüntüsü 2025-10-04 021011](https://github.com/user-attachments/assets/3f6413aa-ed98-4761-9087-fa4593026cb5)
 
 ```
 breakout-game-2025/
